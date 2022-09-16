@@ -119,7 +119,7 @@ section ul li:hover {
 /* animation */
 
 header div {
-    animation: fromTop .7s .2rrrs backwards;
+    animation: fromTop .7s .2s backwards;
     /*animation-delay: 1s;*/
 }
 
