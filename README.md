@@ -9,7 +9,7 @@ Da uma espiada em como ficou 👇🏾
 
 ![preview](./.github/preview.png)
 
-<a href="https://thammylin.github.io/nlw-esports-explorer" target="_blank" > 🔗Clique aqui para acessar</a>
+[🔗Clique aqui para acessar](https://thammylin.github.io/nlw-esports-explorer/)
 
 
 ## 💻 Tecnologias
