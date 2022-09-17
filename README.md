@@ -11,6 +11,7 @@ Da uma espiada em como ficou 👇🏾
 
 [🔗Clique aqui para acessar](https://thammylin.github.io/nlw-esports-explorer/)
 
+
 ## 💻 Tecnologias
 
 - HTML5
