@@ -11,6 +11,14 @@ body * {
     line-height: 160%;
 }
 
+body {
+    background-image: url(./assets/bg.jpg);
+    background-position: top center; /*posição central no top*/
+    background-size: 100% auto; /*tamanho da imagem*/
+    background-repeat: no-repeat; /*para não repetir a imagem*/
+    background-color: #121214;
+}
+
 /*main * {
     border: 1px solid red;
 }*/
@@ -45,15 +53,6 @@ header img {
 
     border-radius: 50%;
     width: 100%;
-}
-
-
-body {
-    background-image: url(./assets/bg.jpg);
-    background-position: top center; /*posição central no top*/
-    background-size: 100% auto; /*tamanho da imagem*/
-    background-repeat: no-repeat; /*para não repetir a imagem*/
-    background-color: #121214;
 }
 
 main {
